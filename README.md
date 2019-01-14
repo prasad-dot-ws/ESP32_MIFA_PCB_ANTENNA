@@ -1,2 +1,3 @@
 # ESP32_MIFA_PCB_ANTENNA
-Recommended MIFA PCB Antenna footprint library for KiCAD
+
+Recommended Meandered Inverted-F Antenna (MIFA) footprint library for KiCAD. Measured from the official gerber files provided by Espressif.
