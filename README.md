@@ -2,7 +2,7 @@
 
 Recommended Meandered Inverted-F Antenna (MIFA) footprint library for KiCAD. Measured from the official gerber files provided by Espressif.
 
-[![N|Solid](Dimensions.png)]
+![N|Solid](Dimensions.png)
 
 ### Table 1: Antenna Dimensions
 
