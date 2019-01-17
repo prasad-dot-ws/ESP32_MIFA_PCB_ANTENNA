@@ -14,6 +14,7 @@ Recommended Meandered Inverted-F Antenna (MIFA) footprint library for KiCAD. Mea
 | L4 | 2.7 mm|
 | L5 | 2 mm|
 | L6 | 4.91 mm|
+| L7 | 5 mm|
 | W1 | 0.63 mm|
 | W2 | 0.5 mm|
 | D1 | 1.7 mm|
